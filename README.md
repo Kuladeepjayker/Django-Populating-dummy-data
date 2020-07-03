@@ -1,21 +1,20 @@
-1. Python 3.8
-Description : This is the project which has been implemented using Django framework
+**Description:** This is the project which has been implemented using Django framework
 with python libraries to populate JSON data based on the requirement provided on the email.
 
-Prerequisite's
+**Prerequisite's**
 IDE : Pycharm
 
-libraries:
+Libraries:
 - Faker
 - Django
 - Django REST framework
 
-Database : Sqlite3
+**Database:** Sqlite3
 
-Summary: Django application for User and Activity Period models, implemented a custom management command to populate the database with some dummy data,
+**Summary:** Django application for User and Activity Period models, implemented a custom management command to populate the database with some dummy data,
 and designed an API to serve that data in the json format.
 
-Project Description :
+**Project Description:**
 
 - Set up Django
 - Create a model in the database that the Django ORM will manage
