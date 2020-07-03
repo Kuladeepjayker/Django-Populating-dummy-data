@@ -4,7 +4,7 @@ with python libraries to populate JSON data based on the requirement provided on
 **Prerequisite's**
 IDE : Pycharm
 
-Libraries:
+**Libraries:**
 - Faker
 - Django
 - Django REST framework
@@ -15,15 +15,13 @@ Libraries:
 and designed an API to serve that data in the json format.
 
 **Project Description:**
-
 - Set up Django
 - Create a model in the database that the Django ORM will manage
 - Set up the Django REST Framework
 - Serialize the model from step 2
 - Create the URL endpoints to view the serialized data.
 
-
-Set up Django
+**Set up Django**
  - Virtual Environment
  - Install Django
  - Make project directory
