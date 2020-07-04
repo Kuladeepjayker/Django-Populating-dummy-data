@@ -1,10 +1,10 @@
 **Description:** This is the project which has been implemented using Django framework
 with python libraries to populate JSON data based on the requirement provided on the email.
 
-[Link for Pythonanywhere Hosting](http://kuladeep.pythonanywhere.com/members/)
+##[Link for Pythonanywhere Hosting](http://kuladeep.pythonanywhere.com/members/)
 
 **Prerequisite's**
-IDE : Pycharm
+**IDE:** Pycharm
 
 **Libraries:**
 - Faker
